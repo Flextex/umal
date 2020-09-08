@@ -152,6 +152,8 @@ blockquote {
     margin-inline-end: 40px;
 }
 
+#my_centered_buttons { display: flex; justify-content: center;
+}
 
 .icono {
 font-size: 20px;
